@@ -68,9 +68,4 @@
   </picture>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylee29/sylee29/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sylee29/sylee29/output/github-snake.svg" />
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:1b4332&height=100&section=footer" width="100%"/>
