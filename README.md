@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:2d6a4f,100:52b788&height=200&section=header&text=Hi,%20I'm%20Ian%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:2d6a4f,100:52b788&height=200&section=header&text=AI%20Product%20Builder&fontSize=46&desc=Building%20OllaBom%20with%20AI%20agents&descSize=18&descAlignY=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=52B788&center=true&vCenter=true&width=600&lines=Product+Builder;From+problem+discovery+to+App+Store;Shipping+solo+with+AI+agents" alt="Typing SVG" />
 
