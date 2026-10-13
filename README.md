@@ -33,7 +33,7 @@
 |---|---|
 | 🔎 **문제** | 기존 등산 앱의 최근 2년 1~2★ 리뷰 **815건**을 분석 — **452건(55%)** 이 유료화·탈퇴·이탈 관련. 갈 곳을 잃은 사용자가 있다는 걸 확인 |
 | 🎯 **결정** | 그들이 첫날 기대하는 **기록 · 정상 인증 · 공유**를 무료로. 사람을 남기는 건 기능이 아니라 **운영자가 여는 동행 모임** |
-| ✂️ **뺀 것** | 배지 · 랭킹 · 피드 · 통계는 전부 v2로. 모든 기능은 두 질문만 통과시킴 — *"첫 주에 앱을 지우지 않게 하나?"* *"이번 주말 실제 산행을 한 건 더 만드나?"* |
+| ✂️ **제외** | 배지 · 랭킹 · 피드 · 통계는 전부 v2로. 모든 기능은 두 질문만 통과시킴 — *"첫 주에 앱을 지우지 않게 하나?"* *"이번 주말 실제 산행을 한 건 더 만드나?"* |
 | 📏 **지표** | 7일 리텐션 · 성사된 동행 모임 수 |
 | 🛠 **방식** | 요구사항 계약(spec) → AI 에이전트 구현 → 검증 기록. 화면 24개·요구사항 13개를 이 흐름으로 개선 |
 
@@ -64,7 +64,10 @@
 ### 📊 Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=seungyoon-lee29&theme=dark&hide_border=true&background=0D1117&ring=52B788&fire=52B788&currStreakLabel=52B788"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seungyoon-lee29&theme=dark&hide_border=true&background=0D1117&ring=52B788&fire=52B788&currStreakLabel=52B788" />
+    <img src="https://streak-stats.demolab.com?user=seungyoon-lee29&hide_border=true&background=FFFFFF&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F" />
+  </picture>
 </div>
 
 <picture>
