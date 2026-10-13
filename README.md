@@ -57,15 +57,5 @@
 
 `Claude Code` `Codex` `Expo` `Supabase` `Mixpanel` `Python`
 
----
-
-### 📊 Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sylee29&theme=dark&hide_border=true&background=0D1117&ring=52B788&fire=52B788&currStreakLabel=52B788" />
-    <img src="https://streak-stats.demolab.com?user=sylee29&hide_border=true&background=FFFFFF&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F" />
-  </picture>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:1b4332&height=100&section=footer" width="100%"/>
