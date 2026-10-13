@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Product_Builder-2D6A4F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Building-OllaBom-52B788?style=flat-square"/>
 <img src="https://img.shields.io/badge/Built_with-Claude_%26_Codex-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=seungyoon-lee29&style=flat-square&color=52B788&label=Profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=sylee29&style=flat-square&color=52B788&label=Profile+views"/>
 
 </div>
 
@@ -41,11 +41,11 @@
 
 | Project | 한 줄 소개 |
 |---|---|
-| [**reply-gate**](https://github.com/seungyoon-lee29/reply-gate) | 근거 없는 고객 응대 답변을 스스로 거르는 AI 상담 에이전트 |
-| [**adversarial-review-blind**](https://github.com/seungyoon-lee29/adversarial-review-blind) | AI 리뷰어 두 명이 기획·계약 문서의 허점을 따로 찾아 교차 검증하는 도구 |
-| [**reject-bench**](https://github.com/seungyoon-lee29/reject-bench) | AI 코딩 규칙이 실제로 도움이 됐는지 사례로 판정하는 실험 |
-| [**amazon-seller-entry-analysis**](https://github.com/seungyoon-lee29/amazon-seller-entry-analysis) | 셀러 시절 고민을 아마존 리뷰 데이터로 다시 풀어본 카테고리 진입 분석 |
-| [**calendar-bar**](https://github.com/seungyoon-lee29/calendar-bar) | 직접 쓰려고 만든 macOS 메뉴바 캘린더 |
+| [**reply-gate**](https://github.com/sylee29/reply-gate) | 근거 없는 고객 응대 답변을 스스로 거르는 AI 상담 에이전트 |
+| [**adversarial-review-blind**](https://github.com/sylee29/adversarial-review-blind) | AI 리뷰어 두 명이 기획·계약 문서의 허점을 따로 찾아 교차 검증하는 도구 |
+| [**reject-bench**](https://github.com/sylee29/reject-bench) | AI 코딩 규칙이 실제로 도움이 됐는지 사례로 판정하는 실험 |
+| [**amazon-seller-entry-analysis**](https://github.com/sylee29/amazon-seller-entry-analysis) | 셀러 시절 고민을 아마존 리뷰 데이터로 다시 풀어본 카테고리 진입 분석 |
+| [**calendar-bar**](https://github.com/sylee29/calendar-bar) | 직접 쓰려고 만든 macOS 메뉴바 캘린더 |
 
 ---
 
@@ -63,14 +63,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seungyoon-lee29&theme=dark&hide_border=true&background=0D1117&ring=52B788&fire=52B788&currStreakLabel=52B788" />
-    <img src="https://streak-stats.demolab.com?user=seungyoon-lee29&hide_border=true&background=FFFFFF&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sylee29&theme=dark&hide_border=true&background=0D1117&ring=52B788&fire=52B788&currStreakLabel=52B788" />
+    <img src="https://streak-stats.demolab.com?user=sylee29&hide_border=true&background=FFFFFF&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F" />
   </picture>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seungyoon-lee29/seungyoon-lee29/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/seungyoon-lee29/seungyoon-lee29/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylee29/sylee29/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sylee29/sylee29/output/github-snake.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:1b4332&height=100&section=footer" width="100%"/>
